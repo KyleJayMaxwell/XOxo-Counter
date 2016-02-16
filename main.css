@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   margin: 0 auto;
   min-height: 100%;
@@ -10,3 +11,17 @@ h1{
 h3{
   color: rgb(215,0,68);
 }
+=======
+body{
+  margin: 0 auto;
+  min-height: 100%;
+  min-width: 100%;
+  background-color: rgb(157,176,180);
+}
+h1{
+  color: rgb(255,148,140);
+}
+h3{
+  color: rgb(215,0,68);
+}
+>>>>>>> 691f339a41f0ae8003c7aa3efa8431bd453c8476
