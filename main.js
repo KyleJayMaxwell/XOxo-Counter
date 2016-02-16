@@ -24,8 +24,10 @@ function findXOrO (arr){
 
 function evenCompare (arr1, arr2){
   if( arr1.length %2 === 0 && arr2.length %2 === 0){
+    $("#response").html("The amount of X's and O's are even.");
     console.log(true);
   } else{
+    $("#response").html("The amount of X's and O's aren't even, bummer.");
     console.log(false);
   }
 }
